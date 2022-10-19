@@ -14,15 +14,16 @@
   list-style-type: none;
   margin: 0;
   padding: 0;
-  display: block;
+  float: left;
   text-decoration: none;
-  left: 50%
+  left: 50%;
 }
 
 #main-navbar ul li {
   float: left;  
   position: relative;
-  right: 50%
+  right: 50%;
+  display: block;
 }
 
 #navbar-container ul li a {
